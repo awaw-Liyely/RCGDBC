@@ -4,14 +4,10 @@
 
 This is the code for the accepted paper:
 
-**Authors:** Ye Li, Lei Yang, Binbin Sang\*, Guoyin Wang\*
+**Authors:** Anonymous
 
-**Title:**  *MFFGH: An Efficient Multi-granularity Fused Fuzzy  Granular-ball-Hypergraph Model for Unsupervised Feature Selection*
-
- **Neurocomputing (NEUCOM).**
+**Title:**  *Robust Correntropy Granular Ball Learning for Discrete Bipartite Graph Clustering*
 
 
 
-**MFFGH-UFS.ipynb is the main function file.**
-
-If you have any questions, please connect liyely@126.com
+**XX is the main function file.**
